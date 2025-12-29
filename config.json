@@ -1,1 +1,8 @@
-{"login_url": "encrypted data"}
+{
+  "base_url": "ENCRYPTED_BASE_URL",
+  "paths": {
+    "login": "ENCRYPTED_LOGIN_PATH",
+    "register": "ENCRYPTED_REGISTER_PATH",
+    "profile": "ENCRYPTED_PROFILE_PATH"
+  }
+}
